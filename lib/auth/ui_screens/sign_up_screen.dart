@@ -24,7 +24,6 @@ class SignUpScreen extends StatelessWidget {
                 Gap(70),
                 SvgPicture.asset(
                   'assets/images/message-solid-full.svg',
-                  color: Colors.white,
                   width: 150,
                 ),
                 Gap(10),
