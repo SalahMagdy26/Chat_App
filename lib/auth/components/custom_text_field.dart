@@ -16,7 +16,7 @@ class CustomTextField extends StatelessWidget {
         border: OutlineInputBorder(borderSide: BorderSide.none,borderRadius: BorderRadius.circular(12)),
         hint:Text(
           hint,
-          style: TextStyle(color: Colors.grey.withAlpha(100), fontSize: 15),
+          style: TextStyle(color: Colors.grey.withAlpha(100), fontSize: 17,fontFamily: 'saira'),
         ),
       ),
     );
